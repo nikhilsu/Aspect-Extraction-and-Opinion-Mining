@@ -13,7 +13,7 @@
     "react-scripts": "^2.0.5"
   },
   "devDependencies": {
-    "ajv": "^6.5.4",
+    "ajv": "^6.12.3",
     "chart.js": "^2.9.4",
     "dotenv": "^5.0.1",
     "google-maps": "^3.2.1"
